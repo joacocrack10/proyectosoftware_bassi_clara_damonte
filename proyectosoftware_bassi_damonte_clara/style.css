@@ -1,0 +1,15 @@
+body{
+    background-image: url(pexels-element5-1370295.jpg);
+    background-size: cover;
+}
+#menu{
+    background-color: burlywood;
+    color:black;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    align-items: center;
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
